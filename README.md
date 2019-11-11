@@ -16,14 +16,20 @@
 
 <p>
   
-<a href="https://github.com/mikkaraavci/What_a_Color/blob/master/Png/MainMenu.JPG">
-<img src="https://github.com/mikkaraavci/What_a_Color/blob/master/Png/MainMenu.JPG" width="600"  style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Combat.JPG">
+<img src="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Combat.JPG" width="600"  style="max-width:100%;"></a>
 
-<a href="https://github.com/mikkaraavci/What_a_Color/blob/master/Png/GameLvl.JPG">
-<img src="https://github.com/mikkaraavci/What_a_Color/blob/master/Png/GameLvl.JPG" width="600" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Home.JPG">
+<img src="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Home.JPG" width="600" style="max-width:100%;"></a>
   
-<a href="https://github.com/mikkaraavci/What_a_Color/blob/master/Png/lvl2.JPG" target="_blank">
-<img src="https://github.com/mikkaraavci/What_a_Color/blob/master/Png/lvl2.JPG" width="600" style="max-width:100%;"></a>
+<a href="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Inventory.JPG" target="_blank">
+<img src="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Inventory.JPG" width="600" style="max-width:100%;"></a>
+
+<a href="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Map.JPG" target="_blank">
+<img src="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Map.JPG" width="600" style="max-width:100%;"></a>
+
+<a href="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Player.JPG" target="_blank">
+<img src="https://github.com/mikkaraavci/Fps-Game/blob/master/PNG/Player.JPG" width="600" style="max-width:100%;"></a>
 
 
 
